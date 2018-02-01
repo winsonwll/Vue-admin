@@ -12,7 +12,6 @@
 
 [wiki](https://github.com/PanJiaChen/vue-element-admin/wiki)
 
-[donate](https://github.com/PanJiaChen/vue-element-admin#donate)
 
 **本项目的定位是后台集成方案，不适合当基础模板来开发。**
  - 模板建议使用: [vueAdmin-template](https://github.com/PanJiaChen/vueAdmin-template)  
@@ -39,9 +38,6 @@
  - [手摸手，带你用vue撸后台 系列四(vueAdmin 一个极简的后台基础模板)](https://juejin.im/post/595b4d776fb9a06bbe7dba56)
  - [手摸手，带你封装一个vue component](https://segmentfault.com/a/1190000009090836)
 
- 相应需求，开了一个qq群 `591724180` 方便大家交流
-
- 或者可以加入该 **[圈子](https://jianshiapp.com/circles/1209)** 讨论问题
 
  **如有问题请先看上述文章和Wiki，若不能满足，欢迎 issue 和 pr**
 
@@ -149,66 +145,6 @@ If you find this project useful, you can buy me a cup of coffee
 ## 状态管理
 后台只有user和app配置相关状态使用vuex存在全局，其它数据都由每个业务页面自己管理。
 
-
-## 效果图
-
-#### 两步验证登录 支持微信和qq
-
-![两步验证 here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/2login.gif)
-
-#### 真正的动态换肤
-
-![真正的动态换肤](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/theme.gif)<br />
-
-#### tabs
-
-![tabs](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/tabs.gif)<br />
-
-
-
-#### 可收起侧边栏
-
-![enter image description here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/leftmenu.gif)
-
-#### table拖拽排序
-
-![enter image description here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/order.gif)
-
-
-#### 动态table
-
-![enter image description here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/dynamictable.gif)
-
-
-#### 上传裁剪头像
-
-![enter image description here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/uploadAvatar.gif)
-
-
-#### 错误统计
-
-![enter image description here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/errorlog.gif)
-
-
-#### 富文本(整合七牛 打水印等个性化功能)
-
-![enter image description here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/editor.gif)
-
-#### 封装table组件
-
-![enter image description here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/table.gif)
-
-#### 图表
-
-![enter image description here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/echarts.gif)
-
-
-#### 导出excel
-
-![enter image description here](https://github.com/PanJiaChen/vue-element-admin/blob/master/gifs/excel.png)
-
-
-## [查看更多demo](http://panjiachen.github.io/vue-element-admin)
 
 ## License
 
